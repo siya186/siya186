@@ -5,8 +5,9 @@ Aspiring Software Developer
 ---------------------------
 
 🚀 Aspiring software developer currently learning Java + development, having a knowledge of C, HTML, and CSS.
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fcool-lofi-girl-studying-her-desk-sunset-outside-beautiful-chill-atmospheric-wallpaper-4k-streaming-background-lofi-hiphop-style-anime-manga-style-generative-ai_42684229.htm&psig=AOvVaw0IUecD8__w0ay6k6DG1KW7&ust=1707746310061000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjX3fK4o4QDFQAAAAAdAAAAABAR" height="200" />
+<br>
+<img src="https://img.freepik.com/premium-photo/cool-lofi-girl-studying-her-desk-rainy-cloudy-outside-beautiful-chill-atmospheric-wallpaper-4k-streaming-background-lofi-hiphop-style-anime-manga-style-generative-ai_117038-5580.jpg" height="200" />
+<br>
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [goswamisakshi@gmail.com](mailto:goswamisakshi@gmail.com)
