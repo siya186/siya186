@@ -6,6 +6,8 @@ Aspiring Software Developer
 
 🚀 Aspiring software developer currently learning Java + development, having a knowledge of C, HTML, and CSS.
 
+<img src="wallpaperflare.com_wallpaper (1).jpg" height="200" />
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [goswamisakshi@gmail.com](mailto:goswamisakshi@gmail.com)
 * 🧠  I'm learning Java and development (HTML , CSS and JavaScript)
