@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software Developer
 ---------------------------
 
-🚀 Aspiring software developer currently learning Java + development, having a knowledge of C, HTML, and CSS.
+🚀 Aspiring software developer currently learning Java + development, having a knowledge of C, HTML, and CSS.<br>
 <br>
 <img src="https://img.freepik.com/premium-photo/cool-lofi-girl-studying-her-desk-rainy-cloudy-outside-beautiful-chill-atmospheric-wallpaper-4k-streaming-background-lofi-hiphop-style-anime-manga-style-generative-ai_117038-5580.jpg" height="200" />
 <br>
